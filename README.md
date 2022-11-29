@@ -1,0 +1,14 @@
+<img align="left" src="https://user-images.githubusercontent.com/116772462/204671883-82655ba3-96a3-414c-bb72-a919efcbe3de.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/116772462/204671883-82655ba3-96a3-414c-bb72-a919efcbe3de.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Nathan&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;Welcome+to+my+profile!;Take+a+look+around!;Thanks+for+viewing!;You+can+leave+now...&font=Fira%20Code&color=%23FF0000&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=NathanBollard&color=grey">
+</p>
+
+<!-- The "You can leave now" message appears on the 100th message. -->
